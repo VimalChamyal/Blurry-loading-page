@@ -1,7 +1,7 @@
 # Blurry-loading-page
 
 I have created a blurry loading page that I will include in my portfolio
-I created the image with the help of free version of Canva, that's why the canva watermark is visble.
+I created the image with the help of free version of Canva, that's why the canva watermark is visble. Check the page <a href="https://vimalchamyal.github.io/Blurry-loading-page/">here.</a>
 
 ![image](https://user-images.githubusercontent.com/101229988/162548435-0568d666-36af-4d36-95ea-62d60d64207f.png)
 
